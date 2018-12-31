@@ -2,6 +2,7 @@
   "name": "my-article",
   "main": "my-article.js",
   "dependencies": {
+    "@polymer/paper-button": "^3.0.1",
     "@polymer/polymer": "^3.0.0"
   },
   "devDependencies": {
